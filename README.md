@@ -1,8 +1,6 @@
 # Hi, I'm Akib 👋
 
-[![Open to work](https://img.shields.io/badge/status-open%20to%20work-0B5C4D?style=flat-square)](#-available-for-work)
-
-Senior Software Engineer from Bangladesh with 6+ years of experience building web applications, specializing in **Angular** and **TypeScript**.
+Senior Software Engineer in Brain Station 23 from Bangladesh with 6+ years of experience building web applications, specializing in **Angular** and **TypeScript**.
 
 I care about building frontends that are fast, accessible, and maintainable. I'm expanding into backend engineering, system design, and AI engineering to build complete products end to end.
 
